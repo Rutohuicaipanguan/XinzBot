@@ -1,17 +1,19 @@
 {
-    "ownerNumber": "6285158549166@s.whatsapp.net",
-    "ownerName": "aqulzz",
+    "ownerNumber": "6288233417466@s.whatsapp.net",
+    "authorNumber":
+  "6288233417466@s.whatsapp.net",
+    "ownerName": "Hakim",
     "limitCount": 30,
     "gamewaktu": 60,
-    "botName": "Xinz Bot",
-    "pathImg": "./media/Itsuki.jpg",
-    "apikey": "YOUR_APIKEY",
-    "fake": "XINZ-BOTZ VERIFIED",
+    "botName": "Ying",
+    "pathImg": "./123.jpg",
+    "apikey": "kurrXd",
+    "fake": "Ying-BOTZ VERIFIED",
     "sesidInsta": "default",
     "sessionName": "aqulzz",
-    "txtDonasi": "GOPAY : 085157226383\nTrakteer : https://trakteer.id/aqulzz\nSaweeria : https://saweria.co/aqulzz\nPulsa : 085157226383",
+    "txtDonasi": "Dana : 08885670706\nTrakteer : https://trakteer.id/aqulzz\nSaweeria : https://saweria.co/aqulzz\nPulsa : 8885670706",
     "gcount": {
-        "prem": 40,
+        "prem": 100,
         "user": 20
     },
     "emote":{
